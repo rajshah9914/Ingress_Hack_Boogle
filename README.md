@@ -1,6 +1,6 @@
 # Boogle
 
-The project aims to provide security over the network and internet. It contains multiple features that tend to provide information privacy.
+The project aims to provide essential utilities and security over the network and internet. It contains multiple features that tend to provide information safety.
 
 **Bookmark Save/Search:-** ML , and NLP have made recent trends and would be making an impact in near future. Often found that one loses an essential website. Even though bookmarks are available, searching through a long list of bookmarked websites can be tedious. How efficient it would be if we have a search engine for the same similar to google. Our extension features this service that can be useful for everyone in near future where data is everything.  
 
